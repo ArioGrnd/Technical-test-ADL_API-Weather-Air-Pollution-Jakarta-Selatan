@@ -1,0 +1,7 @@
+Cara menjalankan test case API pada Katalon
+
+1. Buka folder test case
+2. Klik nama test case 
+3. Klik tanda play/running
+
+ 
